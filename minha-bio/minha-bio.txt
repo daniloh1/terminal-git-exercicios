@@ -1,0 +1,6 @@
+testando a minha mini biografia
+Nome: Danilo Andrade
+Idade:34
+Profissão: Programador
+Formação: Gestão em Tecnologia e uma pós em Engenharia de software.
+Observação: em busca de colocação no mercado de tecnologia
